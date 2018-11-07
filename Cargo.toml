@@ -1,0 +1,7 @@
+[package]
+name = "wpm-rs"
+version = "0.1.0"
+authors = ["Camille TJHOA <camille.tjhoa@outlook.com>"]
+edition = "2018"
+
+[dependencies]
