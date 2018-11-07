@@ -12,4 +12,4 @@ repository = "https://github.com/ctjhoa/wpm-rs"
 readme = "README.md"
 
 [dependencies]
-
+quick-xml = "0.13.1"
