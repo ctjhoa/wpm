@@ -11,6 +11,7 @@ homepage = "https://github.com/ctjhoa/wpm-rs"
 repository = "https://github.com/ctjhoa/wpm-rs"
 readme = "README.md"
 
-[dependencies]
-zip = { version = "0.4", default-features = false }
-quick-xml = "0.13.1"
+[features]
+docx = ["docx-wpm"]
+odt = ["odt-wpm"]
+default = ["docx", "odt"]

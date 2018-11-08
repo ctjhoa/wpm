@@ -1,0 +1,10 @@
+[package]
+name = "odt-wpm"
+version = "0.1.0"
+authors = ["Camille TJHOA <camille.tjhoa@outlook.com>"]
+edition = "2018"
+description = ""
+odt-wpm is an interface to convert wpm document from/into odt format
+""
+
+[dependencies]
