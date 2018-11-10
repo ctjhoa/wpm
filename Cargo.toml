@@ -3,9 +3,9 @@ name = "wpm-rs"
 version = "0.1.0"
 authors = ["Camille TJHOA <camille.tjhoa@outlook.com>"]
 edition = "2018"
-description = ""
+description = """
 wpm is an universal word processing document model
-""
+"""
 documentation = "https://github.com/ctjhoa/wpm-rs"
 homepage = "https://github.com/ctjhoa/wpm-rs"
 repository = "https://github.com/ctjhoa/wpm-rs"
