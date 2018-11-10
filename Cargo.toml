@@ -10,8 +10,3 @@ documentation = "https://github.com/ctjhoa/wpm-rs"
 homepage = "https://github.com/ctjhoa/wpm-rs"
 repository = "https://github.com/ctjhoa/wpm-rs"
 readme = "README.md"
-
-[features]
-docx = ["docx-wpm"]
-odt = ["odt-wpm"]
-default = ["docx", "odt"]
